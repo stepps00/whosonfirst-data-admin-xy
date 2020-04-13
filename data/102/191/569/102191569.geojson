@@ -80,6 +80,9 @@
     "name:bam_x_preferred":[
         "Asia"
     ],
+    "name:ban_x_preferred":[
+        "Asia"
+    ],
     "name:bar_x_preferred":[
         "Asien"
     ],
@@ -197,6 +200,9 @@
     "name:ell_x_preferred":[
         "\u0391\u03c3\u03af\u03b1"
     ],
+    "name:eml_x_preferred":[
+        "Asia"
+    ],
     "name:eng_x_preferred":[
         "Asia"
     ],
@@ -217,6 +223,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0622\u0633\u06cc\u0627"
+    ],
+    "name:fij_x_preferred":[
+        "Esia"
     ],
     "name:fin_x_preferred":[
         "Aasia"
@@ -245,6 +254,9 @@
     "name:gan_x_preferred":[
         "\u4e9e\u6d32"
     ],
+    "name:gcr_x_preferred":[
+        "Lazi"
+    ],
     "name:gla_x_preferred":[
         "\u00c0isia"
     ],
@@ -265,6 +277,9 @@
     ],
     "name:gom_x_preferred":[
         "\u0c8f\u0cb7\u0ccd\u0caf\u0cbe"
+    ],
+    "name:gor_x_preferred":[
+        "Asia"
     ],
     "name:got_x_preferred":[
         "\ud800\udf30\ud800\udf43\ud800\udf39\ud800\udf30"
@@ -494,6 +509,9 @@
     "name:mlt_x_preferred":[
         "Asja"
     ],
+    "name:mnw_x_preferred":[
+        "\u1021\u102c\u101b\u103e"
+    ],
     "name:mon_x_preferred":[
         "\u0410\u0437\u0438"
     ],
@@ -562,6 +580,9 @@
     ],
     "name:nov_x_preferred":[
         "Asia"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07ca\u07d6\u07ed\u07cc\u07eb"
     ],
     "name:nrm_x_preferred":[
         "\u00c2sie"
@@ -761,6 +782,9 @@
     "name:tha_x_variant":[
         "\u0e40\u0e2d\u0e40\u0e0a\u0e35\u0e22"
     ],
+    "name:tir_x_preferred":[
+        "\u12a3\u1235\u12eb"
+    ],
     "name:ton_x_preferred":[
         "\u02bb\u0112sia"
     ],
@@ -810,7 +834,8 @@
         "Ch\u00e2u \u00c1"
     ],
     "name:vie_x_variant":[
-        "ch\u00e2u \u00c1"
+        "ch\u00e2u \u00c1",
+        "ch\u00e2u"
     ],
     "name:vls_x_preferred":[
         "Azi\u00eb"
@@ -960,7 +985,7 @@
         }
     ],
     "wof:id":102191569,
-    "wof:lastmodified":1582332120,
+    "wof:lastmodified":1586563092,
     "wof:name":"Asia",
     "wof:parent_id":-1,
     "wof:placetype":"continent",

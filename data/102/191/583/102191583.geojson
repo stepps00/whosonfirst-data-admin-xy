@@ -22,8 +22,14 @@
     "name:ace_x_preferred":[
         "Oseania"
     ],
+    "name:ady_x_preferred":[
+        "\u041e\u043a\u0435\u0430\u043d\u0438\u0435"
+    ],
     "name:afr_x_preferred":[
         "Oseani\u00eb"
+    ],
+    "name:aka_x_preferred":[
+        "Ohyinia"
     ],
     "name:als_x_preferred":[
         "Ozeanien"
@@ -57,6 +63,9 @@
     ],
     "name:bam_x_preferred":[
         "Oseania"
+    ],
+    "name:ban_x_preferred":[
+        "Os\u00e9ania"
     ],
     "name:bcl_x_preferred":[
         "Oceanya"
@@ -195,6 +204,9 @@
     ],
     "name:gan_x_preferred":[
         "\u5927\u6d0b\u6d32"
+    ],
+    "name:gcr_x_preferred":[
+        "Los\u00e9yanni"
     ],
     "name:gla_x_preferred":[
         "Roinn a' Chuain Sh\u00e8imh"
@@ -762,7 +774,7 @@
         }
     ],
     "wof:id":102191583,
-    "wof:lastmodified":1585853588,
+    "wof:lastmodified":1586563110,
     "wof:name":"Oceania",
     "wof:parent_id":-1,
     "wof:placetype":"continent",
